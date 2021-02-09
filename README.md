@@ -9,7 +9,6 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 </div>
 
 <br/>
-[react]: https://img.shields.io/badge/%20-%232DB2D4.svg?&style=flat&logo=react&logoColor=white
 
 ## List Career Page Startup
 
@@ -298,3 +297,5 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 
 ### Mobilkamu
 - 
+
+[react]: https://img.shields.io/badge/%20-%232DB2D4.svg?&style=flat&logo=react&logoColor=white
