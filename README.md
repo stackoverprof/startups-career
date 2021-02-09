@@ -3,9 +3,13 @@ List of the career page of all the startups in Indonesia for you to keeping up w
 
 ## List Career Page Startup
 
-- Gojek
-- Tokopedia
-- Traveloka
+Gojek 
+  - [career.gojek.com/job](https://career.gojek.com/job)
+  - [career.gojek.com/students-graduates](https://career.gojek.com/students-graduates)
+  
+Tokopedia
+
+Traveloka
 - KinerjaPay Indonesia
 - Moka
 - Carmudi
