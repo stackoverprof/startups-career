@@ -9,6 +9,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 </div>
 
 <br/>
+[react]: https://img.shields.io/badge/%20-%232DB2D4.svg?&style=flat&logo=react&logoColor=white
 
 ## List Career Page Startup
 
@@ -16,8 +17,8 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 - [career.gojek.com/job](https://career.gojek.com/job)
 - [career.gojek.com/students-graduates](https://career.gojek.com/students-graduates)
 
-### Tokopedia
-- 
+### Tokopedia ![][react]
+- [tokopedia.com/careers/jobs/?country=ID](https://tokopedia.com/careers/jobs/?country=ID)
 
 ### Traveloka
 - 
