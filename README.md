@@ -9,7 +9,6 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 </div>
 
 <br/>
-[react]: https://img.shields.io/badge/%20-%232DB2D4.svg?&style=flat&logo=react&logoColor=white
 
 ## List Career Page Startup
 
@@ -19,7 +18,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 
 ### Tokopedia ![][react]
 - [tokopedia.com/careers/jobs/?country=ID](https://tokopedia.com/careers/jobs/?country=ID)
-- [https://www.tokopedia.com/careers/function/internship/](https://https://www.tokopedia.com/careers/function/internship/)
+- [tokopedia.com/careers/function/internship/](https://tokopedia.com/careers/function/internship/)
 
 ### Traveloka ![][react]
 - [traveloka.com/en-id/careers](https://traveloka.com/en-id/careers)
@@ -30,7 +29,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 
 ### Moka
 - [jobs.lever.co/mokapos](https://jobs.lever.co/mokapos)
-- [https://jobs.lever.co/mokapos?commitment=Intern](https://https://jobs.lever.co/mokapos?commitment=Intern)
+- [jobs.lever.co/mokapos?commitment=Intern](https://jobs.lever.co/mokapos?commitment=Intern)
 
 ### Bukalapak ![][nuxt]
 - [careers.bukalapak.com/jobs](https://careers.bukalapak.com/jobs)
@@ -294,7 +293,13 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 ### Kakatu
 - [](https://)
 
-### Mobilkamu
+### Dicoding
+- [](https://)
+
+### Codepolitan
+- [](https://)
+
+### BuildWithAngga
 - [](https://)
 
 [react]: https://img.shields.io/badge/REACT%20-%232DB2D4.svg?&style=flat&logo=react&logoColor=white
