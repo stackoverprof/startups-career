@@ -101,8 +101,8 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 ### Stockbit
 - [](https://)
 
-### Bibit
-- [](https://)
+### Bibit ![][react]
+- [apply.workable.com/stockbit/](https://apply.workable.com/stockbit/)
 
 ### C88 (CekAja, eCompareMo, Premiro)
 - [](https://)
