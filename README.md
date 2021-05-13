@@ -39,7 +39,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 - [career.ruangguru.com/vacancies?jobType=Intern](https://career.ruangguru.com/vacancies?jobType=Intern)
 
 ### OVO
-- [](https://)
+- [careers.ovo.com/opportunities/](https://careers.ovo.com/opportunities/)
 
 ### MatahariMall
 - [](https://)
