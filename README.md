@@ -57,7 +57,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 - [](https://)
 
 ### LinkAja
-- [](https://)
+- [www.linkaja.id/karir](https://www.linkaja.id/karir)
 
 ### Halodoc ID
 - [](https://)
