@@ -285,7 +285,8 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 - [](https://)
 
 ### Tiket com
-- [](https://)
+- [https://www.tiket.com/careers](https://www.tiket.com/careers/job-category/technology)
+- [tiket.com/careers/jobs/?filter_job_type=internship](https://www.tiket.com/careers/jobs/?filter_job_type=internship)
 
 ### Hyjabs
 - [](https://)
@@ -301,6 +302,9 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 
 ### BuildWithAngga
 - [](https://)
+
+### Arutala
+- [arutala.id/careers](https://www.arutala.id/careers/)
 
 [react]: https://img.shields.io/badge/REACT%20-%232DB2D4.svg?&style=flat&logo=react&logoColor=white
 [next]: https://img.shields.io/badge/NEXT%20-%23000000.svg?&style=flat&logo=next.js&logoColor=white
