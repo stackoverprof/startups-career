@@ -98,10 +98,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 ### Ula
 - [](https://)
 
-### Stockbit
-- [](https://)
-
-### Bibit ![][react]
+### Bibit || Stockbit ![][react]
 - [apply.workable.com/stockbit/](https://apply.workable.com/stockbit/)
 
 ### C88 (CekAja, eCompareMo, Premiro)
@@ -198,7 +195,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 - [](https://)
 
 ### Bobobox Indonesia
-- [](https://)
+- [careers.bobobox.co.id/career](https://careers.bobobox.co.id/career)
 
 ### Nida Rooms
 - [](https://)
@@ -254,8 +251,8 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 ### Rumah123
 - [](https://)
 
-### Delman
-- [](https://)
+### Delman ![][react]
+- [delman.io/our-company/career****](https://delman.io/our-company/career)
 
 ### Crewdible
 - [](https://)
@@ -295,7 +292,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 - [](https://)
 
 ### Dicoding
-- [](https://)
+- [From Glints](https://glints.com/companies/dicoding-indonesia/c81ac620-d1b8-4a15-8b4e-129ec8bce86f)
 
 ### Codepolitan
 - [](https://)
