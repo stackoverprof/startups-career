@@ -252,7 +252,7 @@ List of the career page of all the startups in Indonesia for you to keeping up <
 - [](https://)
 
 ### Delman ![][react]
-- [delman.io/our-company/career****](https://delman.io/our-company/career)
+- [delman.io/our-company/career](https://delman.io/our-company/career)
 
 ### Crewdible
 - [](https://)
