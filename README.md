@@ -4,7 +4,7 @@
 
 <div align="center">
     
-List of the career page of all the startups in Indonesia for you to keeping up <br/> with their update. Hope you got your chance!
+List of the career page of all the startups in Indonesia for you to keep up <br/> with their update. Hope you got your chance!
 
 </div>
 
